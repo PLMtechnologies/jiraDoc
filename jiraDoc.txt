@@ -1,0 +1,17 @@
+
+
+Jira 
+
+1.Type Jira in www.google.com
+2.Click on Jira | Issue & Project Tracking Software or Click on https://www.atlassian.com
+3.You can see on rigth most top of the navbar with click button......now you can click the Get It Free 
+4.Now you can see two options.......you can click on the Jira Service Management and then click on next 
+5.On the next page you can see the gamil and mail......from both you can select any one to sign up  
+6.And the verify the email
+7.Now you can see the sign up page in that.....you will be entering your username and password details and click on sign up button
+8.Please enter the valid subdomain under the atlassian.net and then click on I agree
+9.Now you see the page of Tell about yourself.....Please skip that.....
+10.Now you redirected to welcome page ....simply click next....
+
+
+For further details.....you can refer this video....https://www.youtube.com/watch?v=TTycLbEDjCs  
